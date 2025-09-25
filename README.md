@@ -13,7 +13,7 @@ Nefro app is a smart, interactive platform designed to create a complete and enj
 - Task 3 (10/09 - 19/9): Survay Result & User Interviews .
 ## Team Roles
 **TASK 1**
-- (Market Fit Analysis) Anas Osama Mohamed Zaki & Mariam Amr Fawzy Omran (Market Fit Analysis)
+- (Market Fit Analysis) Anas Osama Mohamed Zaki & Mariam Amr Fawzy Omran 
 - (Competitors Names) Rana Alaa Mohamed Mansour
 - (Stakeholders) Fatma Elzahraa Awad Mohamed
   
