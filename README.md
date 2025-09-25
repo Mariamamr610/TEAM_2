@@ -16,11 +16,13 @@ Nefro app is a smart, interactive platform designed to create a complete and enj
 - (Market Fit Analysis) Anas Osama Mohamed Zaki & Mariam Amr Fawzy Omran (Market Fit Analysis)
 - (Competitors Names) Rana Alaa Mohamed Mansour
 - (Stakeholders) Fatma Elzahraa Awad Mohamed
+  
 **TASK 2**
 - (Competitors Analysis) Rana Alaa Mohamed Mansour
 - (Survey Question) Anas Osama Mohamed Zaki
 - (Interview Question) Ahmed osama abdo shehata
-- (SOWT Analysis) Mariam Amr Fawzy Omran  
+- (SOWT Analysis) Mariam Amr Fawzy Omran
+  
 **TASK 3**
 - (Survay) Anas Osama Mohamed Zaki & Fatma Elzahraa Awad Mohamed & Mariam Amr Fawzy Omran
 - (User Interviews)  Anas Osama Mohamed Zaki & Fatma Elzahraa Awad Mohamed & Mariam Amr Fawzy Omran
