@@ -10,4 +10,11 @@ Nefro app is a smart, interactive platform designed to create a complete and enj
 ## project plan
 - Task 1 (23/8 - 29/8): Market Fit Analysis & Competitors Names & Stakeholders .
 - Task 2 (30/8 - 05/09): Competitors Analysis & Survey Question & Interview Question & SOWT Analysis .
-- Task 3 (10/09 - 19/9): Survay Result & User Interviews
+- Task 3 (10/09 - 19/9): Survay Result & User Interviews .
+## Team Roles
+- Task 1
+Anas Osama Mohamed Zaki & Mariam Amr Fawzy Omran (Market Fit Analysis)
+Fatma Elzahraa Awad Mohamed (Stakeholders)
+Rana Alaa Mohamed Mansour (Competitors Names)
+- Task 2
+
