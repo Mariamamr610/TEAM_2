@@ -28,7 +28,7 @@ Nefro app is a smart, interactive platform designed to create a complete and enj
 - (User Interviews)  Anas Osama Mohamed Zaki & Fatma Elzahraa Awad Mohamed & Mariam Amr Fawzy Omran
 ## Project Report
 **Case Study**
-- ([https://drive.google.com/drive/folders/1SpNPrvl2EdFmER83OloEhIYISMoloXnc?usp=drive_link](https://www.figma.com/slides/uptJCzMuhqjz3B8nXQBar6/Nefro-Team-2?node-id=40-2305&t=A2Yt2cqqcb8p1Uqy-1))
+- (https://www.figma.com/slides/uptJCzMuhqjz3B8nXQBar6/Nefro-Team-2?node-id=40-2305&t=A2Yt2cqqcb8p1Uqy-1)
 
 **Figma UI link**
 - (https://www.figma.com/design/7lgXl9Dx98qRHUhn2VGD4P/Nefro?node-id=0-1&t=6vohpCvwosYOUHzt-1)
