@@ -11,6 +11,9 @@ Nefro app is a smart, interactive platform designed to create a complete and enj
 - Task 1 (23/8 - 29/8): Market Fit Analysis & Competitors Names & Stakeholders .
 - Task 2 (30/8 - 05/09): Competitors Analysis & Survey Question & Interview Question & SOWT Analysis .
 - Task 3 (10/09 - 19/9): Survay Result & User Interviews .
+- Task 4 (27/09 - 03/10): Persona & Empathy Map .
+- Task 5 (04/10 - 10/10): Information Architecture & User Flow .
+- task 6 (11/10 - 16/11): Mid Fidelity & High Fidelity & Landing Page .
 ## Team Roles
 **TASK 1**
 - (Market Fit Analysis) Anas Osama Mohamed Zaki & Mariam Amr Fawzy Omran 
@@ -26,6 +29,19 @@ Nefro app is a smart, interactive platform designed to create a complete and enj
 **TASK 3**
 - (Survay) Anas Osama Mohamed Zaki & Fatma Elzahraa Awad Mohamed & Mariam Amr Fawzy Omran
 - (User Interviews)  Anas Osama Mohamed Zaki & Fatma Elzahraa Awad Mohamed & Mariam Amr Fawzy Omran
+
+**TASK 4**
+- (Persona) Fatma Elzahraa Awad Mohamed & Rana Alaa Mohamed Mansour
+- (Empathy Map) Anas Osama Mohamed Zaki
+
+**TASK 5**
+- (Information Architecture) Mariam Amr Fawzy Omran & Rana Alaa Mohamed Mansour
+- (User Flow) Anas Osama Mohamed Zaki
+
+**TASK 6**
+- (Mid Fidelity) Anas Osama Mohamed Zaki & Ahmed osama abdo shehata & Fatma Elzahraa Awad Mohamed
+- (High Fidelity) Fatma Elzahraa Awad Mohamed & Mariam Amr Fawzy Omran  & Rana Alaa Mohamed Mansour
+- (Landing Page) Mariam Amr Fawzy Omran 
 ## Project Report
 **Case Study**
 - (https://www.figma.com/slides/uptJCzMuhqjz3B8nXQBar6/Nefro-Team-2?node-id=40-2305&t=A2Yt2cqqcb8p1Uqy-1)
